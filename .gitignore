@@ -1,0 +1,11 @@
+# Build artifacts
+build/
+
+# Compiled/Binary files
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+*.out
